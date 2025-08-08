@@ -1,0 +1,10 @@
+venv/
+twitter_cookies.pkl
+*.log
+debug_page.html
+debug_screenshot.png
+__pycache__/
+*.pyc
+.DS_Store
+pamuk_bot_temp_profile/
+
